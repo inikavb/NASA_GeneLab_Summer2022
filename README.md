@@ -5,4 +5,5 @@ https://github.com/AstrobioMike/GL-2022-summer-internship/wiki
 
 HackMD Pages:
 - First practice page- https://hackmd.io/sH_CnHPbQRm6kt_vA3KvSg
-- Amplicon and metagenomics processing workflow- https://hackmd.io/_fPaZACSRA2z9_pkvy75IA
+- Amplicon processing workflow- https://hackmd.io/_fPaZACSRA2z9_pkvy75IA
+- Metagenomics proccesing workflow- https://hackmd.io/yLMrIK4URyOtiS1apGMzxQ
