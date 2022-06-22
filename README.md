@@ -11,5 +11,6 @@ Week 2
 - Metagenomics Proccesing Workflow Explained - https://hackmd.io/yLMrIK4URyOtiS1apGMzxQ
 
 Week 3
-- Snakemake Command-line Code - https://hackmd.io/P_AZynOaR06bjm14A04noA
 - Amplicon/Metagenomics Processing Tutorial Notes/Qs - https://hackmd.io/GFIAAk19TNKSZPchx3sDpQ
+- Snakemake Command-line Code for Test Dataset - https://hackmd.io/P_AZynOaR06bjm14A04noA
+- GeneLab GLDS-286 Metagenomic Processing - https://hackmd.io/-rMzenqzTPOTr17dIqgWQg
