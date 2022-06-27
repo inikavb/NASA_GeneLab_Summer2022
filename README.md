@@ -14,3 +14,6 @@ Week 3
 - Amplicon/Metagenomics Processing Tutorial Notes/Qs - https://hackmd.io/GFIAAk19TNKSZPchx3sDpQ
 - Snakemake Command-line Code for Test Dataset - https://hackmd.io/P_AZynOaR06bjm14A04noA
 - GeneLab GLDS-286 Metagenomic Processing - https://hackmd.io/-rMzenqzTPOTr17dIqgWQg
+
+Week 4 
+- Current Metagenomics V&V Code Notes - https://hackmd.io/xm-gBK5eRS2DOE_jJsLJyA
